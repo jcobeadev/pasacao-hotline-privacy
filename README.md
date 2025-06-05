@@ -15,6 +15,9 @@ Pasacao Hotline collects only the minimum data necessary to provide and improve 
 - **App Interactions:** We collect data about how you use the app (e.g., screen views, button taps) to monitor app health and improve features.
 - **User-Generated Content:** When you choose to submit anonymous feedback messages within the app, we collect this information to understand your experience and improve the app. This feedback is optional and not shared with any third party beyond our backend service provider.
 
+## Maps and Location
+Our app displays static map pins of local offices using the Google Maps SDK. We do not request, track, or store your location. The map is purely for reference and does not involve user location access. No personal information is shared with Google
+
 ## How We Use Your Information
 
 We use collected data to:
