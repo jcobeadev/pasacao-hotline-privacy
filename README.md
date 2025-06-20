@@ -53,7 +53,7 @@ Pasacao Hotline is intended for users aged 18 and over. We do not knowingly coll
 ## 8. Information Accuracy and Source Attribution
 
 Pasacao Hotline is a community-built directory app.  
-It compiles hotline numbers from **publicly available sources**, including official municipal Facebook pages, bulletin boards, and verified user submissions. ✅ *[added source examples]*  
+It compiles hotline numbers from **publicly available sources**, including official municipal Facebook pages, bulletin boards, and verified user submissions.
 While we aim to keep information accurate and current, contact details may change over time. We welcome feedback and are committed to updating entries as new or corrected information becomes available.
 
 ## 9. Changes to This Privacy Policy
